@@ -1,3 +1,5 @@
+<h1 align="center">Discord has been banning my accounts for something unrelated to this selfbot this project is postponed but will continuely get updated and eventually released to GITHUB to get early access typ shi add my new disc "letshaveafoursome
+"</h1>
 <h4 align="center">A powerful Discord selfbot built from reverse-engineered components and community contributions.</h4>
 
 <p align="center">
